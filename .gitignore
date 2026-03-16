@@ -4,9 +4,7 @@ __pycache__/
 *$py.class
 
 # C extensions
-*.so
-
-**/desktop.ini
+*.so 
 
 # Distribution / packaging
 .Python
